@@ -39,7 +39,7 @@ const App =()=>{
       
     <div className="App">
 
-      <h1 className="app-title">MONSTERS Rolodex</h1>
+      <h1 className="app-title">MONSTERS</h1>
 
       <SearchInput className="search-input" onChangeHandler={onSearchChange} placeholder='Search monsters' />
 
